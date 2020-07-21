@@ -1,0 +1,9 @@
+.idea
+__pycache__
+.vscode
+
+/ca.crt
+/records.db
+/report.csv
+
+.env
